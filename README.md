@@ -4,4 +4,6 @@
 
 [Ссылка на дашборд](https://public.tableau.com/app/profile/sergeyilyin/viz/When_warm_water_off/Dash)
 
+Preview:
+
 ![Dash view](dash_view.png)
